@@ -11,7 +11,7 @@ body {
 }
 
 a,a:hover {
-    color: #990615;
+    color: #bf5700;
 }
 
 p {
@@ -23,13 +23,13 @@ body {
 }
 
 .label-msb {
-    background-color: #990615;
+    background-color: #bf5700;
 }
 
 /* bootstrap properties */
 
 #msbnav {
-  background-color: #7D0612;
+  background-color: #bf5700;
   background-image: none;
   background-repeat: no-repeat;
   filter: none;
@@ -104,7 +104,7 @@ body {
 
 .nav-list > .active > a,
 .nav-list > .active > a:hover {
-  background-color: #7D0612;
+  background-color: #bf5700;
 }
 
 
@@ -159,7 +159,7 @@ h5.title {
 
 .btn-link {
     padding: 2em 0px 2em 0px;
-    color: #990615;
+    color: #bf5700;
 }
 
 .past-course {
@@ -214,10 +214,10 @@ form.signup td input {
 }
 
 .btn-primary {
-  background-color: #7D0612;
+  background-color: #bf5700;
   border-color: #aaaaaa;
 }
 
 .highlight-text {
-  color: #7D0612;
+  color: #bf5700;
 }
