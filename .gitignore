@@ -52,6 +52,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+local_settings.py
 
 # Flask stuff:
 instance/
@@ -101,5 +102,8 @@ ENV/
 
 
 db.sqlite3
+local_settings.py
 .DS_Store
 staticfiles/staticfiles.json
+fairwork_server/settings.py
+fairwork_server/local_settings.py
