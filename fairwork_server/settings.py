@@ -6,7 +6,7 @@ import django_heroku
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 
 
-SECRET_KEY=""
+SECRET_KEY="JKLDFSJLFJDSL"
 
 ROOT_URLCONF="fairwork_server.urls"
 
