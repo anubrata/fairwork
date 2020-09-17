@@ -6,7 +6,8 @@ import django_heroku
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 
 
-SECRET_KEY="JKLDFSJLFJDSL"
+# SECRET_KEY="z8g799!p-!c(z_!v=%%2*c_3l7x=i1+cv8hs%d9wuuwqtfo04_"
+SECRET_KEY = "mnlwxor0iu)4d&p69v03_)migrr2n9nv6ned7s$v(y6=n512vv"
 
 ROOT_URLCONF="fairwork_server.urls"
 
@@ -51,4 +52,3 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-django_heroku.settings(locals())

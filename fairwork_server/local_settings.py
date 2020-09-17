@@ -24,4 +24,4 @@ REQUESTER_IRB_TEMPLATE = 'placeholder-irb-requester.html' # for your IRB agreeme
 HOSTNAME = 'https://fairwork-ut.herokuapp.com' # used as the hostname in emails sent by the system, since Django management commands do not know the server's hostname
 
 # Activate Django-Heroku.
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
